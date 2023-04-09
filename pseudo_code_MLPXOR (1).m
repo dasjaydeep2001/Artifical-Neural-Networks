@@ -17,7 +17,7 @@ plot(B(1,:),B(2,:),'bd')
 plot(C(1,:),C(2,:),'g*') 
 plot(D(1,:),D(2,:),'ms')
 
-%  Define Target for each class
+%  Define Target for each class as your wish.
     a = [???]';
     c = [???]';
     b = [???]';
